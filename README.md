@@ -22,6 +22,6 @@ About Me: 🚀 Eager learner, always exploring more in CS - I love diving into n
 ![](https://github-contributor-stats.vercel.app/api?username=Abdullah-Aseeef&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah-Aseeef&icon=0&color=13)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Abdullah-Aseeef&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
